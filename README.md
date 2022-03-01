@@ -13,3 +13,6 @@ This is a scene menu when theres a bank bankrobbery you can like press "F5" and 
 
 ### Original Script
 - https://github.com/InfImpSolutions/scenemenu
+
+## DISCORD
+- https://discord.gg/fJekXq5jUP
