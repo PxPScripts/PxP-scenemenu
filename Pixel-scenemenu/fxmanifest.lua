@@ -2,8 +2,8 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'KJ Studios'
-description 'Classic Scene Menu Script for traffic management.'
+author 'KJ Studios Customized By Pixel/A1pha'
+description 'Pixel Scenemenu for Traffic And Banj Robberies'
 version '3.1.0'
 
 client_scripts {
@@ -14,5 +14,4 @@ client_scripts {
 
 server_scripts {
     'server.lua',
-    'versioncheck.lua'
 }
