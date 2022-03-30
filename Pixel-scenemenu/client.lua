@@ -16,7 +16,7 @@ Citizen.CreateThread(function()
 
   --[[ Initialize Menus / Submenus ]]--
   WarMenu.CreateMenu('mainmenu', 'Scene Menu')
-  WarMenu.SetSubTitle('mainmenu', 'By KJ Studios')
+  WarMenu.SetSubTitle('mainmenu', 'By KJ Studios X Pixel')
   WarMenu.SetTitleBackgroundColor('mainmenu', 60, 137, 214, 255)
   WarMenu.SetMenuTextColor('mainmenu', 60, 137, 214, 255)
   -- Object Spawn Menu
@@ -26,7 +26,7 @@ Citizen.CreateThread(function()
   WarMenu.SetMenuTextColor('objectsub', 60, 137, 214, 255)
   -- Speed Zone Menu
   WarMenu.CreateSubMenu('speedzones', 'mainmenu', 'Speed Zone')
-  WarMenu.SetSubTitle('speedzones', 'By KJ Studios')
+  WarMenu.SetSubTitle('speedzones', 'By KJ Studios X Pixel')
   WarMenu.SetTitleBackgroundColor('speedzones', 60, 137, 214, 255)
   WarMenu.SetMenuTextColor('speedzones', 60, 137, 214, 255)
 
