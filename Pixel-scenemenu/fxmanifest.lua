@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'KJ Studios'
+author 'KJ Studios X Pixel'
 description 'Classic Scene Menu Script for traffic management.'
 version '3.1.0'
 
