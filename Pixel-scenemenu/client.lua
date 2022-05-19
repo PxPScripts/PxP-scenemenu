@@ -16,7 +16,7 @@ Citizen.CreateThread(function()
 
   --[[ Initialize Menus / Submenus ]]--
   WarMenu.CreateMenu('mainmenu', 'Scene Menu')
-  WarMenu.SetSubTitle('mainmenu', 'By KJ Studios X Pixel')
+  WarMenu.SetSubTitle('mainmenu', 'By KJ Studios X PxPScripts')
   WarMenu.SetTitleBackgroundColor('mainmenu', 60, 137, 214, 255)
   WarMenu.SetMenuTextColor('mainmenu', 60, 137, 214, 255)
   -- Object Spawn Menu
